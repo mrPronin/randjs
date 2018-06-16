@@ -1,4 +1,5 @@
 // https://blog.tompawlak.org/generate-random-values-nodejs-javascript
+// https://www.npmjs.com/package/prompt
 
 var prompt = require('prompt');
 
